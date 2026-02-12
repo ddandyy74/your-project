@@ -4,9 +4,9 @@
 
 ### STEP 1: 灵魂与准则对齐 (内化身份)
 读取以下文件，严禁跳过：
-1. `docs/internal/SOUL.md` - 你的性格与语气。
-2. `docs/internal/AGENTS.md` - 团队协作与派单协议。
-3. `docs/internal/TOOLS.md` - 环境与工具配置。
+1. `SOUL.md` - 你的性格与语气。
+2. `AGENTS.md` - 团队协作与派单协议。
+3. `TOOLS.md` - 环境与工具配置。
 
 ### STEP 2: 项目全景对齐 (掌握事态)
 1. `PROJECT_MAP.md` - 掌握系统架构、核心路径及禁令。
